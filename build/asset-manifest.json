@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/andredespouys/react-simple-form.git/static/js/main.268256d5.chunk.js",
+    "main.js.map": "/andredespouys/react-simple-form.git/static/js/main.268256d5.chunk.js.map",
+    "runtime-main.js": "/andredespouys/react-simple-form.git/static/js/runtime-main.fca5d686.js",
+    "runtime-main.js.map": "/andredespouys/react-simple-form.git/static/js/runtime-main.fca5d686.js.map",
+    "static/js/2.ef9a33a5.chunk.js": "/andredespouys/react-simple-form.git/static/js/2.ef9a33a5.chunk.js",
+    "static/js/2.ef9a33a5.chunk.js.map": "/andredespouys/react-simple-form.git/static/js/2.ef9a33a5.chunk.js.map",
+    "index.html": "/andredespouys/react-simple-form.git/index.html",
+    "precache-manifest.fc7d0046de0efb705fde9f1d1f860908.js": "/andredespouys/react-simple-form.git/precache-manifest.fc7d0046de0efb705fde9f1d1f860908.js",
+    "service-worker.js": "/andredespouys/react-simple-form.git/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca5d686.js",
+    "static/js/2.ef9a33a5.chunk.js",
+    "static/js/main.268256d5.chunk.js"
+  ]
+}
